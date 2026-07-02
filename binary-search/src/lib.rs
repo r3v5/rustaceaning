@@ -1,5 +1,4 @@
 /// create a binary search that takes a &[T] as a collection and &T as a target. You must restrict T to be a comparable type
-
 pub fn binary_search<T: PartialEq + PartialOrd>(elements: &[T], target: &T) -> Option<usize> {
     if elements.is_empty() {
         return None;
