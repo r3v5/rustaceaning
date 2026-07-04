@@ -8,6 +8,8 @@ Rust learning projects organized as a Cargo workspace.
 |-------|-------------|
 | `minigrep` | CLI grep tool with case-sensitive and case-insensitive search |
 | `binary-search` | Binary search algorithm implementation |
+| `webserver` | Multithreaded web server with thread pool |
+| `dsa` | Data structures and algorithms: stack, queue, merge sort, binary tree (DFS/BFS) |
 
 ## Usage
 
